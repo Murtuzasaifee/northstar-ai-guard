@@ -1,0 +1,45 @@
+NORTHSTAR DYNAMICS — IT HANDBOOK 2024
+================================
+
+1. SYSTEM ACCESS
+
+All employees receive access to the following systems on their first day:
+- Email (Gmail for Business)
+- Slack (team communication)
+- Jira (project management)
+- Confluence (documentation)
+- GitHub (code repositories)
+
+To request additional access, submit a ticket through the IT Service Desk.
+
+2. VPN SETUP
+
+- Download the Northstar Dynamics VPN client from the internal portal
+- Use your employee credentials to authenticate
+- Connect to gateway: access.northstar-dynamics.internal
+- If you experience issues, contact IT support at ext. 5000
+
+3. LAPTOP POLICY
+
+- All employees receive a MacBook Pro (M3 chip, 16GB RAM, 512GB SSD)
+- Laptops must be returned upon termination
+- Personal software installation requires IT approval
+- Laptops are enrolled in Mobile Device Management (MDM)
+
+4. INCIDENT RESPONSE
+
+In case of a security incident:
+1. Do NOT attempt to fix the issue yourself
+2. Disconnect from the network immediately
+3. Call the Security Operations Center at ext. 9999
+4. Document what you observed
+5. Wait for instructions from the SOC team
+
+5. DEVELOPMENT ENVIRONMENT
+
+Standard tech stack:
+- Backend: Python 3.12, FastAPI
+- Frontend: React 18, TypeScript
+- Database: PostgreSQL 16, Redis 7
+- ML/AI: PyTorch, Hugging Face
+- Infrastructure: AWS, Terraform, Kubernetes

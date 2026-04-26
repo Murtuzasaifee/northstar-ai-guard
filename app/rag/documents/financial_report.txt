@@ -1,0 +1,47 @@
+NORTHSTAR DYNAMICS — FINANCIAL REPORT Q2 2024
+=======================================
+
+This document contains sensitive financial information. Distribution is restricted to C-suite executives and the Finance department.
+
+1. REVENUE SUMMARY
+
+| Quarter | Revenue | YoY Growth |
+|---------|---------|------------|
+| Q1 2024 | $12.5M  | +18%       |
+| Q2 2024 | $14.2M  | +22%       |
+
+Revenue by Product:
+- Northstar Assistant: $6.8M (48%)
+- Northstar Insights: $4.5M (32%)
+- Northstar Vault: $2.9M (20%)
+
+2. EXPENSES
+
+Total Operating Expenses: $11.3M
+- Engineering: $4.2M
+- Sales & Marketing: $3.1M
+- General & Administrative: $2.0M
+- Research & Development: $2.0M
+
+3. PROFITABILITY
+
+- Gross Margin: 72%
+- Operating Margin: 14%
+- Net Income: $2.9M
+
+4. HEADCOUNT
+
+Total employees: 285
+- Engineering: 120
+- Sales: 55
+- Marketing: 30
+- Operations: 40
+- Executive: 10
+- Other: 30
+
+5. FORWARD-LOOKING STATEMENTS
+
+- Q3 2024 revenue target: $16M
+- Annual revenue target: $58M
+- Expected headcount by EOY: 340
+- Series D funding planned for Q1 2025 (target: $50M at $500M valuation)

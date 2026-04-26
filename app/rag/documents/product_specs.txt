@@ -1,0 +1,54 @@
+NORTHSTAR DYNAMICS — PRODUCT SPECIFICATIONS 2024
+==========================================
+
+1. NORTHSTAR ASSISTANT (AI CHATBOT)
+
+Target Market: Enterprise customers
+Pricing: $49/user/month (Basic), $99/user/month (Premium)
+Key Features:
+- Natural language query processing
+- Document search and retrieval
+- Multi-language support (40+ languages)
+- Custom workflow automation
+- API access for integration
+
+2. NORTHSTAR INSIGHTS
+
+Target Market: Mid-market and Enterprise
+Pricing: $299/month (Starter), $799/month (Growth), Custom (Enterprise)
+Key Features:
+- Real-time dashboard monitoring
+- Predictive analytics using ML models
+- Custom report builder
+- Data export (CSV, PDF, API)
+- Team collaboration tools
+
+3. NORTHSTAR VAULT (SECURE STORAGE)
+
+Target Market: Healthcare and Financial Services
+Pricing: $0.10/GB/month
+Key Features:
+- End-to-end encryption (AES-256)
+- SOC 2 Type II compliant
+- HIPAA compliant
+- Role-based access control
+- Audit logging
+
+4. UPCOMING PRODUCTS (CONFIDENTIAL — Q3 2025)
+
+- Northstar Voice: AI-powered voice assistant for customer service
+  Expected launch: September 2025
+  Target pricing: $199/month per concurrent line
+  
+- Northstar Vision: Computer vision platform for quality inspection
+  Expected launch: November 2025
+  In talks with Orion Motors and Kairo Devices for pilot programs
+
+5. REVENUE FIGURES (INTERNAL — DO NOT SHARE)
+
+- Q1 2024 Revenue: $12.5M
+- Q2 2024 Revenue: $14.2M
+- Q3 2024 Revenue: $15.8M (projected)
+- Total customers: 2,340
+- Customer churn rate: 3.2%
+- Average contract value: $45,000/year
